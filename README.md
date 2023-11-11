@@ -1,1 +1,1 @@
-# -DbOperationWithEfCore
+# DbOperationWithEfCore
